@@ -40,7 +40,7 @@ if(keyWentDown(UP_ARROW)){
 }
   //Function to read values from DB
   function readStock(data){
-  foodS=date.val;
+   foodS=date.val();
   }
   //Function to write values in DB
   function writeStock(x){
