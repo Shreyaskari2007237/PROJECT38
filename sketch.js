@@ -36,7 +36,7 @@ if(keyWentDown(UP_ARROW)){
   fill("white");
   stroke(2);
   textSize(20);
-  text("Note:Press UP_ARROW Key To Feed Drago Milk",30,30);
+  text("Note:Press UP_ARROW Key To Feed Drago Milk!",30,30);
 }
   //Function to read values from DB
   function readStock(data){
